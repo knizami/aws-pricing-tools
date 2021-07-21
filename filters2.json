@@ -1,0 +1,16 @@
+{
+"ServiceCode":"AmazonEC2",
+"FormatVersion":"aws_v1",
+"Filters": [
+{
+"Type": "TERM_MATCH",
+"Field": "ServiceCode",
+"Value": "AmazonEC2"
+},
+{
+"Type": "TERM_MATCH",
+"Field": "sku",
+"Value": "FFJFJF6E9ACSJXTV"
+}
+]
+}

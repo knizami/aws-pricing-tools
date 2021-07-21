@@ -1,0 +1,16 @@
+{
+"ServiceCode":"AmazonRDS",
+"FormatVersion":"aws_v1",
+"Filters": [
+{
+"Type": "TERM_MATCH",
+"Field": "ServiceCode",
+"Value": "AmazonRDS"
+},
+{
+"Type": "TERM_MATCH",
+"Field": "sku",
+"Value": "VCYW4RTPCADAPV5Q"
+}
+]
+}
